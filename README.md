@@ -1,0 +1,1 @@
+<iframe title="Fraud Detection Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTc0ODNjN2UtNDBmNi00MzE2LTg4YzAtNTJlMTNmOGFjOTQ3IiwidCI6ImE0NjIyOWM3LTIxZDEtNDE3ZC1hMWNiLTE4NTdhMDdkMjc2NSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
